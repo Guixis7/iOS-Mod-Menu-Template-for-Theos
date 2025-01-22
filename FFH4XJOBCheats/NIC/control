@@ -1,0 +1,5 @@
+name "Painel FFH4X JOB Cheats V1"
+prompt FILTER "Bundle filter" "com.dts.freefire.job"
+constrain file "control" to package
+constrain "theos" to link_theos
+
